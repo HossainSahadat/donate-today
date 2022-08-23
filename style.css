@@ -190,6 +190,58 @@ body {
     width: 10%;
 }
 
+/* Newsletter part css */
+.newsletter-section {
+    margin: 100px 0px 100px 0px;
+}
+
+.newsletter-title h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 0px;
+
+}
+
+.newsletter-title p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: gray;
+}
+
+.newsletter-input {
+    width: 50%;
+    margin-left: 25%;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.newsletter-emaill {
+    margin-top: 80px;
+    padding: 14px 50px 14px 15px;
+    background-color: gainsboro;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+
+
+
+}
+
+.newsletter-submit {
+    padding: 14px 20px;
+    border: none;
+    background-color: tomato;
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+}
+
 /* fotter part css */
 footer {
     text-align: center;
