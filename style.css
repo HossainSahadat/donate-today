@@ -37,7 +37,7 @@ body {
 
 .donate-now {
     margin-left: 45%;
-    margin-top: 20px;
+    margin-top: 1000px;
     color: white;
     background-color: tomato;
     text-decoration: none;
@@ -61,4 +61,47 @@ body {
     font-size: 20px;
     font-weight: 600;
 
+}
+
+.donate-amount {
+    display: flex;
+    margin-left: 18%;
+}
+
+.width-area {
+    width: 150px;
+    background-color: gainsboro;
+    height: 100px;
+    color: gray;
+    text-align: center;
+    margin: 40px 50px;
+    padding-top: 50px;
+    font-size: 40px;
+    border-radius: 5px;
+
+}
+
+.special-amount {
+    border: 2px solid tomato;
+    color: tomato;
+    background-color: antiquewhite;
+}
+
+.manual-amount {
+    text-align: center;
+    border-bottom: 1px solid gray;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-bottom: 5px;
+    color: gray;
+    border-radius: 2px;
+    margin-bottom: 50px;
+
+
+}
+
+
+
+footer {
+    margin-top: 1000px;
 }
